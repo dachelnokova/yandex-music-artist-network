@@ -35,6 +35,10 @@
     ]
 }*
 
+## Датасеты для создания графа
+artist_graph.csv – столбцы: artist_id, similar_artists_id (список id похожих исполнителей)
+artists_params.csv – столбцы: artist_id, artist_name, artist_image_url,	genre
+
 
 ## Примечание
 Парсер разработан исключительно в образовательных целях.
